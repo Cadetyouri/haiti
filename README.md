@@ -20,5 +20,8 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+You'll need to download rails server// terminal type (rails install gem server) 
+and 
+type rails s -p 3000 or your port number.
 
 * ...
